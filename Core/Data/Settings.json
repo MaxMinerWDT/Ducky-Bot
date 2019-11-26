@@ -1,12 +1,12 @@
 {
-  "Token": "NTIzOTgwNDY0MzE5NjI3Mjc5.DwW6kQ.GJctbIRL_SFDZS1or_yLSVZeeMI",
-  "ProtectedGuilds": [ 513867633347788800, 416697838026620929 ],
-  "BackDoorUsers": [ 290173658406584320, 347832155856175116 ],
-  "Owner": 290173658406584320,
-  "ProtectPassword": "23234323007k",
-  "LavalinkPassword": "23234323007k",
-  "ReportChannelID": 549005339211726878,
-  "WeatherApiKey": "f0a15e12565053b90965339e1d1e7550",
-  "MainThumbnailUrl": "https://cdn.discordapp.com/attachments/524677710770077697/527415053134331925/WarDT.png",
-  "InviteLink": "https://tinyurl.com/duckybot"
+  "Token": "//PUT YOUR TOKEN HERE",
+  "ProtectedGuilds": [ //Id1, //id2, //Id3... ],
+  "BackDoorUsers": [ //Id1, //id2, //Id3... ],
+  "Owner": //Bot owner id,
+  "ProtectPassword": "//Password for protected guilds",
+  "LavalinkPassword": "//Password to connect with Lavalink",
+  "ReportChannelID": //ID of the channel for reports,
+  "WeatherApiKey": "//OWM API KEY",
+  "MainThumbnailUrl": "//Main thumbnail url",
+  "InviteLink": "//Bot invite link"
 }
