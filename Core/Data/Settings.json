@@ -5,7 +5,7 @@
   "Owner": //Bot_owner_id,
   "ProtectPassword": "Password_for_protected_guilds",
   "LavalinkPassword": "Password_to_connect_with_Lavalink",
-  "ReportChannelID": //ID of the channel for reports,
+  "ReportChannelID": //ID_of_the_channel_for_reports,
   "WeatherApiKey": "OWM_API_KEY",
   "MainThumbnailUrl": "Main_thumbnail_url",
   "InviteLink": "Bot_invite_link"
