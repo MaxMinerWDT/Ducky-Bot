@@ -1,12 +1,12 @@
 {
-  "Token": "//PUT YOUR TOKEN HERE",
-  "ProtectedGuilds": [ //Id1, //id2, //Id3... ],
-  "BackDoorUsers": [ //Id1, //id2, //Id3... ],
-  "Owner": //Bot owner id,
-  "ProtectPassword": "//Password for protected guilds",
-  "LavalinkPassword": "//Password to connect with Lavalink",
+  "Token": "PUT_YOUR_BOT_TOKEN_HERE",
+  "ProtectedGuilds": [ //Id1, id2, Id3... ],
+  "BackDoorUsers": [ //Id1, id2, Id3... ],
+  "Owner": //Bot_owner_id,
+  "ProtectPassword": "Password_for_protected_guilds",
+  "LavalinkPassword": "Password_to_connect_with_Lavalink",
   "ReportChannelID": //ID of the channel for reports,
-  "WeatherApiKey": "//OWM API KEY",
-  "MainThumbnailUrl": "//Main thumbnail url",
-  "InviteLink": "//Bot invite link"
+  "WeatherApiKey": "OWM_API_KEY",
+  "MainThumbnailUrl": "Main_thumbnail_url",
+  "InviteLink": "Bot_invite_link"
 }
